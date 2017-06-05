@@ -1,0 +1,1 @@
+# ib-category-thumbnail
