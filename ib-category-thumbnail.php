@@ -4,7 +4,7 @@ Plugin Name: Thumbnail Category
 Description: add thumbnail to the category taxonomy
 Author: Ihsan Berahim
 Version: 1.0
-Author URI: https://www.linkedin.com/in/ihsanberahim
+Author URI: https://github.com/ihsanberahim
 */
 
 add_action('category_add_form_fields', 'add_category_group_field', 10);
